@@ -7,7 +7,7 @@ import { Home } from "./components/Home";
 import { Reports } from "./components/Report";
 import { ClassBasedTest } from "./components/ClassBasedTest";
 
-import "./styles.css";
+import "./css/tailwind.css";
 
 const mainRoutes = [
   { name: "Home", path: "/" },
